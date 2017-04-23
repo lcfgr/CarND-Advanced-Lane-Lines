@@ -1,4 +1,4 @@
-## Writeup Template
+## Writeup
 
 ---
 
@@ -64,7 +64,7 @@ One were the car is going straight:
 
 One while the car starts to turn right:   
    
-![alt text][imag3]
+![alt text][image3]
 
 #### 2. Describe how (and identify where in your code) you used color transforms, gradients or other methods to create a thresholded binary image.  Provide an example of a binary image result.
 
