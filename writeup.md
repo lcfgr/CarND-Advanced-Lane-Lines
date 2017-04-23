@@ -27,7 +27,7 @@ The goals / steps of this project are the following:
 [image8]: ./output_images/lines_detected.png "detected lines"
 [image9]: ./output_images/test6_lane.png "lane line"
 
-[video1]: ./project_video.mp4 "Video"
+[video1]: ./project4_output.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
